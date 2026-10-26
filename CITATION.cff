@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article and this archive."
+title: "microLLPS: proteome-wide analysis of neuronal microexons as phase-separation switches"
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAME]"
+    affiliation: "[AFFILIATION]"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.[RECORD]"
+repository-code: "https://github.com/[ORGANIZATION]/microLLPS"
+keywords: [microexons, alternative splicing, phase separation, biomolecular condensates, autism, intrinsically disordered regions]

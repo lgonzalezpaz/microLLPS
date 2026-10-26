@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 lenin gonzalez
+Copyright (c) 2026 [AUTHOR NAMES]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Third-party components are NOT covered by this licence and are downloaded, not
+redistributed, by scripts/download_data.sh: the phase-separation predictor of
+von Bülow et al. (GPL-3.0), FINCHES (MIT), metapredict (MIT), the microexon
+catalogue of Parada et al. (MIT). Ensembl, AlphaFold DB (CC-BY 4.0), PhaSePro,
+CD-CODE and SFARI Gene data remain under their respective terms of use.
